@@ -8,6 +8,6 @@ package lpoo;
  *
  * @author Tami
  */
-public class Pergunta {
-    
+public enum EnumNivel {
+    FACIL, MEDIO, DIFICIL;
 }
